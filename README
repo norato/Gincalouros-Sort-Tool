@@ -1,0 +1,17 @@
+Script criado para realizar o sorteio dos grupos para a gincana com os calouros de 2011 do IFF-Campos-Campus-Centro, na gestão de 2010/2011 do Grêmio Nilo Pessanha (GENP).
+
+O cadastro dos participantes será feito na planilha "gincalouros.xls", preenchendo os dados necessarios.
+
+Para executar:
+
+python sorteio.py
+
+
+Instalação das dependencias:
+
+apt-get install python-setuptools
+easy_install pip
+
+pip install should_dsl specloud xlwt xlrd
+
+
